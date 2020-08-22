@@ -1,0 +1,17 @@
+{
+  "id": "WIQLM42MTP",
+  "airline": "Trans American Airlines",
+  "flightCode": "TAA830",
+  "seat": "2C",
+  "gate": 8,
+  "date": "11/08/2020",
+  "boardingTime": "05:45",
+  "boardingZone": null,
+  "terminal": "N",
+  "departureTime": "06:10",
+  "departureAirport": "Belfast",
+  "departureAirportIATA": "BFS",
+  "arrivalAirport": "London Gatwick",
+  "arrivalAirportIATA": "LGW",
+  "passenger": "Clive Briggs"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "J5MWUW1CRW",
+  "airline": "Windsor Airlines",
+  "flightCode": "WW321",
+  "seat": "23H",
+  "gate": 9,
+  "date": "30/03/2020",
+  "boardingTime": "07:30",
+  "boardingZone": null,
+  "terminal": null,
+  "departureTime": "08:00",
+  "departureAirport": "Doha",
+  "departureAirportIATA": "DOH",
+  "arrivalAirport": "Cardiff",
+  "arrivalAirportIATA": "CWL",
+  "passenger": "Delilah Macleod"
+}

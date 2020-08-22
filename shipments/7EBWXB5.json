@@ -1,0 +1,13 @@
+{
+  "orderID": "7EBWXB5",
+  "orderDate": "1595674680",
+  "estimatedDeliveryDate": "1596365935",
+  "deliveryDate": null,
+  "delayed": false,
+  "status": {
+    "orderPlaced": true,
+    "orderShipped": true,
+    "outForDelivery": true,
+    "orderDelivered": false
+  }
+}

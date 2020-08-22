@@ -1,0 +1,17 @@
+{
+  "id": "S6CGC2KVA0",
+  "airline": "Windsor Airlines",
+  "flightCode": "WW653",
+  "seat": "2C",
+  "gate": 2,
+  "date": "10/04/2020",
+  "boardingTime": "07:30",
+  "boardingZone": 2,
+  "terminal": null,
+  "departureTime": "08:00",
+  "departureAirport": "Doha",
+  "departureAirportIATA": "DOH",
+  "arrivalAirport": "Kathmandu",
+  "arrivalAirportIATA": "KTM",
+  "passenger": "Euan Ritter"
+}

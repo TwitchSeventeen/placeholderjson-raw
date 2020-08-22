@@ -1,0 +1,17 @@
+{
+  "id": "0B0NPXJ0QA",
+  "airline": "Oceanic Airlines",
+  "flightCode": "OA725",
+  "seat": "26B",
+  "gate": "C92",
+  "date": "25/11/2020",
+  "boardingTime": "09:50",
+  "boardingZone": null,
+  "terminal": null,
+  "departureTime": "10:05",
+  "departureAirport": "Geneva",
+  "departureAirportIATA": "GVA",
+  "arrivalAirport": "London Heathrow",
+  "arrivalAirportIATA": "LHR",
+  "passenger": "Margaret Allen"
+}

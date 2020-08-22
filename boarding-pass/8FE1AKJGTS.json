@@ -1,0 +1,17 @@
+{
+  "id": "8FE1AKJGTS",
+  "airline": "Oceanic Airlines",
+  "flightCode": "OA2371",
+  "seat": "13E",
+  "gate": "25",
+  "date": "05/10/2020",
+  "boardingTime": "07:25",
+  "boardingZone": null,
+  "terminal": null,
+  "departureTime": "07:40",
+  "departureAirport": "London Luton",
+  "departureAirportIATA": "LTN",
+  "arrivalAirport": "Corfu",
+  "arrivalAirportIATA": "CFU",
+  "passenger": "Ewen Fields"
+}

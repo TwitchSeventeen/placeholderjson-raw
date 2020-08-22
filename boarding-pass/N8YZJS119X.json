@@ -1,0 +1,17 @@
+{
+  "id": "N8YZJS119X",
+  "airline": "Atlantic International Airlines",
+  "flightCode": "AIA220",
+  "seat": "25H",
+  "gate": 2,
+  "date": "15/08/2020",
+  "boardingTime": "23:00",
+  "boardingZone": 3,
+  "terminal": null,
+  "departureTime": "23:30",
+  "departureAirport": "Charleston",
+  "departureAirportIATA": "CHS",
+  "arrivalAirport": "London Heathrow",
+  "arrivalAirportIATA": "LHR",
+  "passenger": "Rebekka Sheppard"
+}

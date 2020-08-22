@@ -1,0 +1,17 @@
+{
+  "id": "Y8U72I1Q7I",
+  "airline": "Trans American Airlines",
+  "flightCode": "TAA652",
+  "seat": "8D",
+  "gate": 3,
+  "date": "08/08/2020",
+  "boardingTime": "18:45",
+  "boardingZone": null,
+  "terminal": 5,
+  "departureTime": "17:10",
+  "departureAirport": "London Heathrow",
+  "departureAirportIATA": "LHR",
+  "arrivalAirport": "Santorini",
+  "arrivalAirportIATA": "JTR",
+  "passenger": "Krista Underwood"
+}

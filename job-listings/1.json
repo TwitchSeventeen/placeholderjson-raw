@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "ABC Recruitment",
+    "type": "Recruitment Agency",
+    "url": "https://www.example.com/abc"
+  },
+  "location": "Bristol, UK",
+  "salaryType": "annum",
+  "salaryMin": 0,
+  "salaryMax": 50000,
+  "roleType": "permanent",
+  "industry": "Legal",
+  "jobTitle": "Lawyer",
+  "jobSnippet": "Vestibulum molestie libero ut lacus pulvinar, quis eleifend nulla elementum. ",
+  "jobDescription": "Ut et efficitur dolor. Aenean ut dignissim dui. Maecenas rutrum est ex, id ullamcorper massa mattis ut. Nulla facilisi. Maecenas imperdiet auctor massa id euismod. Nunc nec lacinia neque. Vestibulum scelerisque sodales neque sed dictum. Quisque vehicula tristique nulla, sed scelerisque dolor tincidunt at. Nam volutpat nunc mollis, scelerisque elit non, rhoncus augue. Proin et neque in turpis varius ullamcorper. In sed ornare eros. Vivamus sit amet diam dictum, porta neque ut, semper neque. Nullam a dolor vel ex ornare sagittis. Suspendisse potenti."
+}
