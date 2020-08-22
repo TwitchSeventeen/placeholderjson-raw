@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "Lorem",
+    "type": "Company",
+    "url": "https://www.example.com/lorem"
+  },
+  "location": "Newport, UK",
+  "salaryType": "annum",
+  "salaryMin": null,
+  "salaryMax": "competitive",
+  "roleType": "permanent",
+  "industry": "retail",
+  "jobTitle": "Colleague",
+  "jobSnippet": "Ut pharetra mi. Donec lectus purus, fermentum in augue sed, commodo convallis turpis. Donec",
+  "jobDescription": " Ut pretium nulla at odio faucibus blandit. Phasellus ut velit eget risus convallis pellentesque et ultrices nunc. Etiam porta metus purus, vitae eleifend nibh feugiat aliquet.\nSed a mi vel sapien aliquam tincidunt quis imperdiet orci. Etiam cursus eget nibh sed luctus."
+}

@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "Public Sector Org",
+    "type": "Employer",
+    "url": "https://www.example.com/gov"
+  },
+  "location": "Bristol, UK",
+  "salaryType": "annum",
+  "salaryMin": 30500,
+  "salaryMax": 32905,
+  "roleType": "permanent",
+  "industry": "Tech",
+  "jobTitle": "Junior Graphic Designer",
+  "jobSnippet": "Sed accumsan, eros eget vehicula rutrum, odio tortor venenatis ante, sit amet sodales libero nunc ac ipsum. ",
+  "jobDescription": "Curabitur vel ligula odio. Suspendisse nec mauris orci. Curabitur auctor eros tempus dui venenatis bibendum. In lectus leo, dictum eget magna a, vehicula rhoncus libero. Nam sit amet pretium nisl. Etiam ac congue felis. Integer eget vehicula turpis. Nullam pellentesque porttitor pellentesque. In sapien dolor, tincidunt viverra congue a, tempus eget enim. Vivamus in massa molestie felis elementum sollicitudin."
+}

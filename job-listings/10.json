@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "ABC Recruitment",
+    "type": "Recruitment Agency",
+    "url": "https://www.example.com/abc"
+  },
+  "location": "Cardiff, UK",
+  "salaryType": "hour",
+  "salaryMin": null,
+  "salaryMax": 9.60,
+  "roleType": "permanent",
+  "industry": "Hospitality",
+  "jobTitle": "Night Receptionist",
+  "jobSnippet": "Fusce venenatis, orci nec scelerisque semper, tellus dolor ullamcorper leo, nec hendrerit ligula mi bibendum arcu. Nulla at tincidunt magna. ",
+  "jobDescription": "Praesent et cursus nisl. Aliquam iaculis, elit vitae bibendum lobortis, orci ex vestibulum elit, eu lobortis purus augue id ex. Nullam vitae nisi turpis. Nam scelerisque condimentum mattis. Vivamus eget velit tempor enim tempor molestie. Nulla facilisi. Donec eu porttitor augue, accumsan convallis sem. Suspendisse potenti. Etiam id commodo quam. Fusce egestas tristique accumsan. Proin at risus eget urna viverra scelerisque."
+}

@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "ABC Recruitment",
+    "type": "Recruitment Agency",
+    "url": "https://www.example.com/abc"
+  },
+  "location": "Cardiff, UK",
+  "salaryType": "annum",
+  "salaryMin": null,
+  "salaryMax": "negotiable",
+  "roleType": "permanent",
+  "industry": "Tech",
+  "jobTitle": "Graphic Designer",
+  "jobSnippet": "Praesent ut arcu vehicula, iaculis elit in, condimentum est. Maecenas posuere auctor nibh, in venenatis leo pulvinar sit amet. Nunc blandit, ligula ac maximus bibendum, ligula tortor dapibus dui, vitae venenatis felis lorem ut nibh.",
+  "jobDescription": "Aenean odio nunc, iaculis finibus mi quis, egestas imperdiet neque. Proin dapibus hendrerit urna eget congue. Aliquam erat volutpat. Praesent a rhoncus lectus. Vestibulum a ipsum rhoncus, varius ipsum eget, iaculis ipsum. In leo nunc, auctor ac nunc eu, tincidunt dictum tortor. "
+}

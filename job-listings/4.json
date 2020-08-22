@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "Company Name",
+    "type": "Employer",
+    "url": "https://www.example.com/cn"
+  },
+  "location": "Bristol, UK",
+  "salaryType": "hour",
+  "salaryMin": 13,
+  "salaryMax": 15,
+  "roleType": "permanent",
+  "industry": "Logistics",
+  "jobTitle": "Delivery Driver",
+  "jobSnippet": "Sed ut pharetra mi. Donec lectus purus, fermentum in augue sed, commodo convallis turpis.",
+  "jobDescription": "Donec eu elit condimentum, maximus dolor ut, pretium ex. Integer libero quam, aliquet sed convallis non, condimentum et leo. Integer tempor dapibus ante a placerat. Suspendisse sed condimentum velit. Vivamus nec ex luctus, sollicitudin erat et, mollis lectus. Ut pretium nulla at odio faucibus blandit. Phasellus ut velit eget risus convallis pellentesque et ultrices nunc. Etiam porta metus purus, vitae eleifend nibh feugiat aliquet."
+}

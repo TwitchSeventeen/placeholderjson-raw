@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "Ipsum",
+    "type": "Company",
+    "url": "https://www.example.com/ipsum"
+  },
+  "location": "Cardiff, UK",
+  "salaryType": "month",
+  "salaryMin": null,
+  "salaryMax": "competitive",
+  "roleType": "part-time",
+  "industry": "Retail",
+  "jobTitle": "Retail Assistant",
+  "jobSnippet": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+  "jobDescription": "Fusce consequat, nulla vel pretium pulvinar, ante felis tempor ligula, sed lobortis ipsum est et est. Integer porttitor libero et nulla varius, nec gravida nulla varius. Maecenas eget eleifend lectus, eget ullamcorper purus. Pellentesque hendrerit sed erat id ullamcorper. Maecenas convallis tellus vitae suscipit pretium. Aliquam tristique tortor eu scelerisque congue."
+}

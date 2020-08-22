@@ -1,0 +1,16 @@
+{
+  "recruiter": {
+    "title": "ABC Recruitment",
+    "type": "Recruitment Agency",
+    "url": "https://www.example.com/abc"
+  },
+  "location": "Newport, UK",
+  "salaryType": "day",
+  "salaryMin": 50,
+  "salaryMax": 55,
+  "roleType": "permanent",
+  "industry": "",
+  "jobTitle": "Postal Worker",
+  "jobSnippet": "Cras egestas, urna et aliquam lacinia, elit metus consequat nulla, ac hendrerit diam lacus in elit.",
+  "jobDescription": "Maecenas condimentum, augue vel rhoncus lacinia, tortor ipsum suscipit odio, ut hendrerit ex augue vel dui. Phasellus in feugiat nibh, tristique vestibulum leo. Praesent eget risus condimentum, sagittis quam eget, ullamcorper lectus.\nSed accumsan, eros eget vehicula rutrum, odio tortor venenatis ante, sit amet sodales libero nunc ac ipsum."
+}
