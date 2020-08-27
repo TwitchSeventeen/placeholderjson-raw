@@ -1,0 +1,13 @@
+{
+  "orderID": "IACCG8C",
+  "orderDate": "1598299200",
+  "estimatedDeliveryDate": "1598270400",
+  "deliveryDate": "1598299200",
+  "delayed": false,
+  "status": {
+    "orderPlaced": true,
+    "orderShipped": true,
+    "outForDelivery": true,
+    "orderDelivered": true
+  }
+}
